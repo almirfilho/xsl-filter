@@ -1,0 +1,639 @@
+<?xml version="1.0" ?>
+<brasil>
+	<estado sigla="AC">
+		<nome>Acre</nome>
+		<regiao>N</regiao>
+		<capital>Rio Branco</capital>
+		<area unid="km2">153149</area>
+		<populacao>483593</populacao>
+		<numMunic>22</numMunic>
+		<ativEcon>
+			<tipo>Extrativismo - borracha</tipo>
+		</ativEcon>
+		<divisas>
+			<uf>AM</uf>
+			<pais>Peru</pais>
+			<pais>Bolívia</pais>
+		</divisas>
+		<dadosInteresse>
+			<dado>Terra de Chico Mendes</dado>
+		</dadosInteresse>
+	</estado>
+	<estado sigla="AM">
+		<nome>Amazonas</nome>
+		<regiao>N</regiao>
+		<capital>Manaus</capital>
+		<area unid="km2">1577820</area>
+		<populacao>2389279</populacao>
+		<numMunic>62</numMunic>
+		<ativEcon>
+			<tipo>Extrativismo - borracha</tipo>
+			<tipo>Indústria - eletrônicos</tipo>
+		</ativEcon>
+		<divisas>
+			<uf>AC</uf>
+			<uf>RO</uf>
+			<uf>MT</uf>
+			<uf>PA</uf>
+			<uf>RR</uf>
+			<pais>Venezuela</pais>
+			<pais>Colômbia</pais>
+			<pais>Peru</pais>
+		</divisas>
+		<dadosInteresse>
+			<dado>É cortado pelo maior rio em volume de água do mundo, o Amazonas</dado>
+		</dadosInteresse>
+	</estado>
+	<estado sigla="AL">
+		<nome>Alagoas</nome>
+		<regiao>NE</regiao>
+		<capital>Maceió</capital>
+		<area unid="km2">27933</area>
+		<populacao>2633251</populacao>
+		<numMunic>101</numMunic>
+		<ativEcon>
+			<tipo>Turismo</tipo>
+		</ativEcon>
+		<divisas>
+			<uf>BA</uf>
+			<uf>PE</uf>
+			<uf>SE</uf>
+		</divisas>
+		<dadosInteresse>
+		</dadosInteresse>
+	</estado>
+	<estado sigla="AP">
+		<nome>Amapá</nome>
+		<regiao>N</regiao>
+		<capital>Macapá</capital>
+		<area unid="km2">143153</area>
+		<populacao>379459</populacao>
+		<numMunic>16</numMunic>
+		<ativEcon>
+		</ativEcon>
+		<divisas>
+			<uf>PA</uf>
+			<pais>Suriname</pais>
+			<pais>Guiana Francesa</pais>
+		</divisas>
+		<dadosInteresse>
+			<dado>Em seu território localiza-se o ponto mais ao norte do Brasil</dado>
+		</dadosInteresse>
+	</estado>
+	<estado sigla="BA">
+		<nome>Bahia</nome>
+		<regiao>NE</regiao>
+		<capital>Salvador</capital>
+		<area unid="km2">567295</area>
+		<populacao>12541675</populacao>
+		<numMunic>415</numMunic>
+		<ativEcon>
+			<tipo>Turismo</tipo>
+			<tipo>Indústria - petroquímica</tipo>
+		</ativEcon>
+		<divisas>
+			<uf>PI</uf>
+			<uf>PE</uf>
+			<uf>AL</uf>
+			<uf>SE</uf>
+			<uf>MG</uf>
+			<uf>TO</uf>
+			<uf>GO</uf>
+		</divisas>
+		<dadosInteresse>
+			<dado>Na Bahia, acontece um dos maiores Carnavais do pais</dado>
+			<dado>Salvador foi a primeira capital do Brasil</dado>
+			<dado>Terra de Jorge Amado</dado>
+		</dadosInteresse>
+		<timesFutebol>
+			<nomeTime>Vitória</nomeTime>
+			<nomeTime>Bahia</nomeTime>
+		</timesFutebol>
+	</estado>
+	<estado sigla="CE">
+		<nome>Ceará</nome>
+		<regiao>NE</regiao>
+		<capital>Fortaleza</capital>
+		<area unid="km2">146348</area>
+		<populacao>6809290</populacao>
+		<numMunic>184</numMunic>
+		<ativEcon>
+			<tipo>Turismo</tipo>
+			<tipo>Indústria - têxtil</tipo>
+		</ativEcon>
+		<divisas>
+			<uf>PI</uf>
+			<uf>RN</uf>
+			<uf>PB</uf>
+			<uf>PE</uf>
+		</divisas>
+		<dadosInteresse>
+			<dado>Terra de José de Alencar</dado>
+		</dadosInteresse>
+		<timesFutebol>
+			<nomeTime>Fortaleza</nomeTime>
+			<nomeTime>Ceará</nomeTime>
+		</timesFutebol>
+	</estado>
+	<estado sigla="DF">
+		<nome>Distrito Federal</nome>
+		<regiao>CO</regiao>
+		<capital>Brasília</capital>
+		<area unid="km2">5822</area>
+		<populacao>1821946</populacao>
+		<numMunic>1</numMunic>
+		<ativEcon>
+		</ativEcon>
+		<divisas>
+			<uf>GO</uf>
+			<uf>MG</uf>
+		</divisas>
+		<dadosInteresse>
+		</dadosInteresse>
+	</estado>
+	<estado sigla="ES">
+		<nome>Espírito Santo</nome>
+		<regiao>SE</regiao>
+		<capital>Vitória</capital>
+		<area unid="km2">46184</area>
+		<populacao>2802707</populacao>
+		<numMunic>77</numMunic>
+		<ativEcon>
+		</ativEcon>
+		<divisas>
+			<uf>BA</uf>
+			<uf>MG</uf>
+			<uf>RJ</uf>
+		</divisas>
+		<dadosInteresse>
+		</dadosInteresse>
+		<universidadesPublicas>
+			<nomeUniversidade>Universidade Federal do Espírito Santo</nomeUniversidade>
+		</universidadesPublicas>
+	</estado>
+	<estado sigla="GO">
+		<nome>Goiás</nome>
+		<regiao>CO</regiao>
+		<capital>Goiânia</capital>
+		<area unid="km2">341289</area>
+		<populacao>4514967</populacao>
+		<numMunic>242</numMunic>
+		<ativEcon>
+		</ativEcon>
+		<divisas>
+			<uf>MT</uf>
+			<uf>MS</uf>
+			<uf>TO</uf>
+			<uf>BA</uf>
+			<uf>MG</uf>
+		</divisas>
+		<dadosInteresse>
+		</dadosInteresse>
+		<timesFutebol>
+			<nomeTime>Goiás</nomeTime>
+			<nomeTime>Atlético Goianiense</nomeTime>
+		</timesFutebol>
+	</estado>
+	<estado sigla="MA">
+		<nome>Maranhão</nome>
+		<regiao>NE</regiao>
+		<capital>São Luís</capital>
+		<area unid="km2">333365</area>
+		<populacao>5222183</populacao>
+		<numMunic>217</numMunic>
+		<ativEcon>
+			<tipo>Indústria - alumínio</tipo>
+			<tipo>Serviços - turismo</tipo>
+			<tipo>Agricultura - arroz</tipo>
+		</ativEcon>
+		<divisas>
+			<uf>PA</uf>
+			<uf>PI</uf>
+			<uf>TO</uf>
+		</divisas>
+		<dadosInteresse>
+			<dado>A capital, São Luís, é Patrimônio da Humanidade pela UNESCO</dado>
+			<dado>Tem o segundo maior litoral do País, onde está localizado o Delta do Parnaíba, o maior das Américas</dado>
+			<dado>Terra de Gonçalves Dias, grande poeta</dado>
+		</dadosInteresse>
+		<timesFutebol>
+			<nomeTime>Sampaio Corrêa</nomeTime>
+			<nomeTime>Moto-Clube</nomeTime>
+			<nomeTime>Maranhão Atlético Clube</nomeTime>
+		</timesFutebol>
+		<universidadesPublicas>
+			<nomeUniversidade>Universidade Federal do Maranhão</nomeUniversidade>
+			<nomeUniversidade>Universidade Estadual do Maranhão</nomeUniversidade>
+		</universidadesPublicas>
+	</estado>
+	<estado sigla="MG">
+		<nome>Minas Gerais</nome>
+		<regiao>SE</regiao>
+		<capital>Belo Horizonte</capital>
+		<area unid="km2">588383</area>
+		<populacao>16672613</populacao>
+		<numMunic>853</numMunic>
+		<ativEcon>
+			<tipo>Indústria - automóveis</tipo>
+			<tipo>Serviços - turismo</tipo>
+			<tipo>Extração - minério</tipo>
+		</ativEcon>
+		<divisas>
+			<uf>GO</uf>
+			<uf>DF</uf>
+			<uf>SP</uf>
+			<uf>BA</uf>
+			<uf>ES</uf>
+			<uf>RJ</uf>
+		</divisas>
+		<dadosInteresse>
+			<dado>Terra de Tancredo Neves e Tiradentes</dado>
+			<dado>Possui inúmeras cidades históricas: Ouro Preto, Diamantina, São João Del Rey</dado>
+			<dado>Local onde ocorreu a Incofidência Mineira</dado>
+		</dadosInteresse>
+		<universidadesPublicas>
+			<nomeUniversidade>Universidade do Estado de Minas Gerais</nomeUniversidade>
+			<nomeUniversidade>Universidade Federal de Juiz de Fora</nomeUniversidade>
+			<nomeUniversidade>Universidade Federal de Minas Gerais</nomeUniversidade>
+			<nomeUniversidade>Universidade Federal de Ouro Preto</nomeUniversidade>
+			<nomeUniversidade>Universidade Federal de Viçosa</nomeUniversidade>
+		</universidadesPublicas>
+		<timesFutebol>
+			<nomeTime>Cruzeiro</nomeTime>
+			<nomeTime>Atlético Mineiro</nomeTime>
+			<nomeTime>América Mineiro</nomeTime>
+		</timesFutebol>
+	</estado>
+	<estado sigla="MS">
+		<nome>Mato Grosso do Sul</nome>
+		<regiao>CO</regiao>
+		<capital>Campo Grande</capital>
+		<area unid="km2">358158</area>
+		<populacao>1927834</populacao>
+		<numMunic>77</numMunic>
+		<ativEcon>
+		</ativEcon>
+		<divisas>
+			<uf>MT</uf>
+			<uf>GO</uf>
+			<uf>MG</uf>
+			<uf>SP</uf>
+			<uf>PR</uf>
+			<pais>Bolívia</pais>
+			<pais>Paraguai</pais>
+		</divisas>
+		<dadosInteresse>
+		</dadosInteresse>
+	</estado>
+	<estado sigla="MT">
+		<nome>Mato Grosso</nome>
+		<regiao>CO</regiao>
+		<capital>Cuiabá</capital>
+		<area unid="km2">906806</area>
+		<populacao>2235832</populacao>
+		<numMunic>126</numMunic>
+		<ativEcon>
+			<tipo>Agricultura - soja</tipo>
+		</ativEcon>
+		<divisas>
+			<uf>AM</uf>
+			<uf>PA</uf>
+			<uf>TO</uf>
+			<uf>GO</uf>
+			<uf>MS</uf>
+			<pais>Bolívia</pais>
+		</divisas>
+		<dadosInteresse>
+		</dadosInteresse>
+	</estado>
+	<estado sigla="PA">
+		<nome>Pará</nome>
+		<regiao>N</regiao>
+		<capital>Belém</capital>
+		<area unid="km2">1253164</area>
+		<populacao>5510849</populacao>
+		<numMunic>143</numMunic>
+		<ativEcon>
+			<tipo>Extrativismo - borracha</tipo>
+			<tipo>Pecuária - búfalos</tipo>
+		</ativEcon>
+		<divisas>
+			<uf>AM</uf>
+			<uf>MT</uf>
+			<uf>TO</uf>
+			<uf>MA</uf>
+			<uf>RR</uf>
+			<pais>Guiana</pais>
+			<pais>Suriname</pais>
+		</divisas>
+		<dadosInteresse>
+			<dado>Possui a maior ilha do Brasil, Marajó</dado>
+		</dadosInteresse>
+		<timesFutebol>
+			<nomeTime>Paysandu</nomeTime>
+			<nomeTime>Remo</nomeTime>
+		</timesFutebol>
+	</estado>
+	<estado sigla="PB">
+		<nome>Paraíba</nome>
+		<regiao>NE</regiao>
+		<capital>João Pessoa</capital>
+		<area unid="km2">56584</area>
+		<populacao>3305616</populacao>
+		<numMunic>223</numMunic>
+		<ativEcon>
+		</ativEcon>
+		<divisas>
+			<uf>CE</uf>
+			<uf>RN</uf>
+			<uf>PE</uf>
+		</divisas>
+		<dadosInteresse>
+			<dado>Em seu território, encontra-se o ponto mais a leste do Brasil</dado>
+		</dadosInteresse>
+		<timesFutebol>
+			<nomeTime>Botafogo da Paraíba</nomeTime>
+		</timesFutebol>
+	</estado>
+	<estado sigla="PE">
+		<nome>Pernambuco</nome>
+		<regiao>NE</regiao>
+		<capital>Recife</capital>
+		<area unid="km2">98937</area>
+		<populacao>7399071</populacao>
+		<numMunic>185</numMunic>
+		<ativEcon>
+			<tipo>Indústria</tipo>
+			<tipo>Agricultura - cana-de-açúcar</tipo>
+			<tipo>Turismo</tipo>
+		</ativEcon>
+		<divisas>
+			<uf>PI</uf>
+			<uf>CE</uf>
+			<uf>PB</uf>
+			<uf>BA</uf>
+			<uf>AL</uf>
+		</divisas>
+		<dadosInteresse>
+			<dado>Terra do frevo e do maracatu</dado>
+		</dadosInteresse>
+		<timesFutebol>
+			<nomeTime>Sport</nomeTime>
+			<nomeTime>Náutico</nomeTime>
+			<nomeTime>Santa Cruz</nomeTime>
+		</timesFutebol>
+		<universidadesPublicas>
+			<nomeUniversidade>Universidade Federal de Pernambuco</nomeUniversidade>
+			<nomeUniversidade>Universidade de Pernambuco (UPE)</nomeUniversidade>
+		</universidadesPublicas>
+	</estado>
+	<estado sigla="PI">
+		<nome>Piauí</nome>
+		<regiao>NE</regiao>
+		<capital>Teresina</capital>
+		<area unid="km2">252378</area>
+		<populacao>2673085</populacao>
+		<numMunic>221</numMunic>
+		<ativEcon>
+			<tipo>Agricultura</tipo>
+			<tipo>Pecuária</tipo>
+		</ativEcon>
+		<divisas>
+			<uf>MA</uf>
+			<uf>CE</uf>
+			<uf>PE</uf>
+			<uf>BA</uf>
+			<uf>TO</uf>
+		</divisas>
+		<dadosInteresse>
+		</dadosInteresse>
+		<timesFutebol>
+			<nomeTime>River</nomeTime>
+			<nomeTime>Flamengo do Piauí</nomeTime>
+		</timesFutebol>
+	</estado>
+	<estado sigla="PR">
+		<nome>Paraná</nome>
+		<regiao>S</regiao>
+		<capital>Curitiba</capital>
+		<area unid="km2">199709</area>
+		<populacao>9003804</populacao>
+		<numMunic>399</numMunic>
+		<ativEcon>
+		</ativEcon>
+		<divisas>
+			<uf>SP</uf>
+			<uf>MS</uf>
+			<uf>SC</uf>
+			<pais>Paraguai</pais>
+		</divisas>
+		<dadosInteresse>
+		</dadosInteresse>
+		<timesFutebol>
+			<nomeTime>Atlético Paranaense</nomeTime>
+			<nomeTime>Paraná</nomeTime>
+		</timesFutebol>
+	</estado>
+	<estado sigla="RJ">
+		<nome>Rio de Janeiro</nome>
+		<regiao>SE</regiao>
+		<capital>Rio de Janeiro</capital>
+		<area unid="km2">43909</area>
+		<populacao>13406308</populacao>
+		<numMunic>91</numMunic>
+		<ativEcon>
+		</ativEcon>
+		<divisas>
+			<uf>MG</uf>
+			<uf>ES</uf>
+			<uf>SP</uf>
+		</divisas>
+		<dadosInteresse>
+		</dadosInteresse>
+		<universidadesPublicas>
+			<nomeUniversidade>Instituto Militar de Engenharia</nomeUniversidade>
+			<nomeUniversidade>Instituto Nacional de Matemática Pura e Aplicada</nomeUniversidade>
+			<nomeUniversidade>Universidade Estadual do Norte Fluminense</nomeUniversidade>
+			<nomeUniversidade>Universidade Federal Fluminense</nomeUniversidade>
+			<nomeUniversidade>Universidade Federal do Rio de Janeiro</nomeUniversidade>
+		</universidadesPublicas>
+		<timesFutebol>
+			<nomeTime>Flamengo</nomeTime>
+			<nomeTime>Vasco</nomeTime>
+			<nomeTime>Fluminense</nomeTime>
+			<nomeTime>Botafogo</nomeTime>
+		</timesFutebol>
+	</estado>
+	<estado sigla="RN">
+		<nome>Rio Grande do Norte</nome>
+		<regiao>NE</regiao>
+		<capital>Natal</capital>
+		<area unid="km2">53306</area>
+		<populacao>2558660</populacao>
+		<numMunic>166</numMunic>
+		<ativEcon>
+		</ativEcon>
+		<divisas>
+			<uf>CE</uf>
+			<uf>PB</uf>
+		</divisas>
+		<dadosInteresse>
+		</dadosInteresse>
+		<timesFutebol>
+			<nomeTime>ABC</nomeTime>
+			<nomeTime>América</nomeTime>
+		</timesFutebol>
+	</estado>
+	<estado sigla="RO">
+		<nome>Rondônia</nome>
+		<regiao>N</regiao>
+		<capital>Porto Velho</capital>
+		<area unid="km2">238512</area>
+		<populacao>1229306</populacao>
+		<numMunic>52</numMunic>
+		<ativEcon>
+		</ativEcon>
+		<divisas>
+			<uf>AM</uf>
+			<uf>MT</uf>
+			<pais>Bolívia</pais>
+		</divisas>
+		<dadosInteresse>
+		</dadosInteresse>
+	</estado>
+	<estado sigla="RR">
+		<nome>Roraima</nome>
+		<regiao>N</regiao>
+		<capital>Boa Vista</capital>
+		<area unid="km2">225116</area>
+		<populacao>247131</populacao>
+		<numMunic>15</numMunic>
+		<ativEcon>
+		</ativEcon>
+		<divisas>
+			<uf>AM</uf>
+			<uf>PA</uf>
+			<pais>Guaiana</pais>
+			<pais>Venezuela</pais>
+		</divisas>
+		<dadosInteresse>
+		</dadosInteresse>
+	</estado>
+	<estado sigla="RS">
+		<nome>Rio Grande do Sul</nome>
+		<regiao>S</regiao>
+		<capital>Porto Alegre</capital>
+		<area unid="km2">282062</area>
+		<populacao>9634688</populacao>
+		<numMunic>467</numMunic>
+		<ativEcon>
+			<tipo>Indústria</tipo>
+			<tipo>Pecuária</tipo>
+		</ativEcon>
+		<divisas>
+			<uf>SC</uf>
+			<pais>Argentina</pais>
+			<pais>Uruguai</pais>
+		</divisas>
+		<dadosInteresse>
+			<dado>Estado onde ocorreu a Revolução Farroupilha</dado>
+		</dadosInteresse>
+		<timesFutebol>
+			<nomeTime>Grêmio</nomeTime>
+			<nomeTime>Internacional</nomeTime>
+		</timesFutebol>
+	</estado>
+	<estado sigla="SC">
+		<nome>Santa Catarina</nome>
+		<regiao>S</regiao>
+		<capital>Florianópolis</capital>
+		<area unid="km2">95442</area>
+		<populacao>4875244</populacao>
+		<numMunic>399</numMunic>
+		<ativEcon>
+		</ativEcon>
+		<divisas>
+			<uf>PR</uf>
+			<uf>RS</uf>
+			<pais>Argentina</pais>
+		</divisas>
+		<dadosInteresse>
+		</dadosInteresse>
+		<timesFutebol>
+			<nomeTime>Coritiba</nomeTime>
+			<nomeTime>Avaí</nomeTime>
+		</timesFutebol>
+	</estado>
+	<estado sigla="SE">
+		<nome>Sergipe</nome>
+		<regiao>NE</regiao>
+		<capital>Aracaju</capital>
+		<area unid="km2">22050</area>
+		<populacao>1624020</populacao>
+		<numMunic>75</numMunic>
+		<ativEcon>
+		</ativEcon>
+		<divisas>
+			<uf>BA</uf>
+			<uf>AL</uf>
+		</divisas>
+		<dadosInteresse>
+		</dadosInteresse>
+	</estado>
+	<estado sigla="SP">
+		<nome>São Paulo</nome>
+		<regiao>SE</regiao>
+		<capital>São Paulo</capital>
+		<area unid="km2">248808</area>
+		<populacao>34119110</populacao>
+		<numMunic>645</numMunic>
+		<ativEcon>
+			<tipo>Indústria - metalúrgica</tipo>
+			<tipo>Agricultura</tipo>
+			<tipo>Serviços</tipo>
+		</ativEcon>
+		<divisas>
+			<uf>MS</uf>
+			<uf>MG</uf>
+			<uf>PR</uf>
+		</divisas>
+		<dadosInteresse>
+			<dado>Estado mais populoso do País</dado>
+			<dado>Sediou a Revolução Constitucionalista em 1932</dado>
+			<dado>Terra de Monteiro Lobato</dado>
+		</dadosInteresse>
+		<timesFutebol>
+			<nomeTime>Palmeiras</nomeTime>
+			<nomeTime>Corinthians</nomeTime>
+			<nomeTime>São Paulo</nomeTime>
+			<nomeTime>Santos</nomeTime>
+		</timesFutebol>
+		<universidadesPublicas>
+			<nomeUniversidade>Instituto Tecnológico de Aeronáutica</nomeUniversidade>
+			<nomeUniversidade>Universidade Federal de São Carlos</nomeUniversidade>
+			<nomeUniversidade>Universidade Estadual de Campinas</nomeUniversidade>
+			<nomeUniversidade>Universidade Federal de São Paulo</nomeUniversidade>
+			<nomeUniversidade>Universidade de São Paulo</nomeUniversidade>
+		</universidadesPublicas>
+	</estado>
+	<estado sigla="TO">
+		<nome>Tocantins</nome>
+		<regiao>N</regiao>
+		<capital>Palmas</capital>
+		<area unid="km2">278420</area>
+		<populacao>1048642</populacao>
+		<numMunic>139</numMunic>
+		<ativEcon>
+		</ativEcon>
+		<divisas>
+			<uf>PA</uf>
+			<uf>MT</uf>
+			<uf>GO</uf>
+			<uf>MA</uf>
+			<uf>PI</uf>
+			<uf>BA</uf>
+		</divisas>
+		<dadosInteresse>
+		</dadosInteresse>
+	</estado>
+</brasil>

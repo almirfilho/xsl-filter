@@ -1,0 +1,51 @@
+#wrapper {
+	padding: 60px 20px;
+}
+
+#menu .control-label {
+	width: 100px;
+	font-weight: bold;
+}
+
+#menu .controls {
+	margin-left: 110px;
+}
+
+#menu .control-group {
+	margin: 0px;
+}
+
+.brand span {
+	color: #ddd;
+}
+
+.page-header h1 .small {
+	font-size: 18px;
+	color: #999;
+	margin-right: 6px;
+	text-transform: uppercase;
+}
+
+ul span {
+	color: #ccc;
+}
+
+th.h1 {
+	width: 80px;
+}
+
+th.h2 {
+	width: 180px;
+}
+
+th.h3 {
+	width: 160px;
+}
+
+th.h4 {
+	width: 140px;
+}
+
+th.h5 {
+	width: 200px;
+}

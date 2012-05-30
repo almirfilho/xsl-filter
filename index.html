@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+	<title>SOA: Trabalho de XSL</title>
+	<meta charset="UTF-8" />
+	<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+	<link rel="stylesheet" href="css/bootstrap-responsive.min.css" type="text/css" />
+	<link rel="stylesheet" href="css/general.css" type="text/css" />
+	<script type="text/javascript" src="scripts/jquery.min.js"></script>
+	<script type="text/javascript" src="scripts/bootstrap.min.js"></script>
+	<script type="text/javascript" src="scripts/general.js"></script>
+	<script type="text/javascript">
+	
+	$(document).ready( function(){
+
+		$('select').change( function(){
+
+			if( $(this).val() != '' ){
+				
+				result = loadXSL('xsl/q'+ $(this).val() +'.xsl');
+				$('#result').html( result );
+			}
+		});
+		
+		// testes --------------
+		// result = loadXSL('xsl/q10.xsl');
+		// $('#result').html( result );
+	});
+	
+	</script>
+</head>
+<body>
+<div id="wrapper" class="container">
+	<div class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				<a class="brand" href="."><span>{Trabalho de XSL}</span> :: Almir Filho</a>
+			</div>
+		</div>
+	</div>
+	<div id="menu">
+		<form action="#" class="form-horizontal well">
+			<div class="control-group">
+				<label class="control-label" for="questao">Questão</label>
+				<div class="controls">
+					<select id="questao" class="span6">
+						<option value="">-- Selecione --</option>
+						<option value="01">01. Informações completas sobre todos os Estados brasileiros</option>
+						<option value="02">02. Nome, capital, área e população dos Estados da Região Nordeste</option>
+						<option value="03">03. Estados que possuem mais de 100 municípios</option>
+						<option value="04">04. As divisas do Estado da Para&iacute;ba</option>
+						<option value="05">05. Estados que fazem fronteira com outros países</option>
+						<option value="06">06. Estados que têm mais de um clube de futebol</option>
+						<option value="07">07. Estados organizados em ordem decrescente de área territorial</option>
+						<option value="08">08. Atividades econômicas por Estado</option>
+						<option value="09">09. Universidades públicas dos Estados da Região Sudeste</option>
+						<option value="10">10. Estados e suas capitais em ordem alfabética de Estado</option>
+					</select>
+				</div>
+			</div>
+		</form>
+	</div>
+	<div id="result"></div>
+</div>
+</body>
+</html>

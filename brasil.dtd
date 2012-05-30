@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!ELEMENT brasil (estado)+ >
+<!ELEMENT estado (nome,região,capital,área,população,numMunic,ativEcon?,
+                  divisas,dadosInteresse?) >
+<!ATTLIST estado sigla CDATA #REQUIRED >
+<!ELEMENT nome (#PCDATA) >
+<!ELEMENT região (#PCDATA) >
+<!ELEMENT capital (#PCDATA) >
+<!ELEMENT área (#PCDATA) >
+<!ATTLIST área unid CDATA "km2" >
+<!ELEMENT população (#PCDATA) >
+<!ELEMENT numMunic (#PCDATA) >
+<!ELEMENT ativEcon (tipo)*>
+<!ELEMENT tipo (#PCDATA) >
+<!ELEMENT divisas (uf | país)* >
+<!ELEMENT uf (#PCDATA) >
+<!ELEMENT país (#PCDATA) >
+<!ELEMENT dadosInteresse (dado)* >
+<!ELEMENT dado (#PCDATA) >
